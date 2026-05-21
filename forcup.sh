@@ -1,5 +1,7 @@
 #!/bin/bash
 ## CREADO POR BRAMICU
+opcion=""
+ruta=""
 
 43(){
 cp Assembly-CSharp-4-3.dll $ruta/Assembly-CSharp.dll && clear && echo 'Ahora puede ejecutar cuphead en 4:3'
@@ -9,8 +11,6 @@ nativo(){
 cp Assembly-CSharp-native.dll $ruta/Assembly-CSharp.dll && clear && echo 'Ahora puede ejecutar cuphead en 16:9'
 }
 
-opcion=""
-ruta=""
 clear
 echo '		-------forCup-------'
 echo '	En que formato queres ejecutar Cuphead?'
