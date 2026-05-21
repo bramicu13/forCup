@@ -6,6 +6,10 @@ Proximamente se lanzara una version para Windows por ahora solo esta disponible 
 
 ## INSTALACION
 
+Instalas GIT
+
+    # sudo apt install git
+
 Instalas el repositorio
 
     # git clone https://github.com/bramicu13/forCup
